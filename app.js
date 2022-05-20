@@ -51,3 +51,7 @@ function moveCoin() {
   coin.style.left = `${hor}px`;
   coin.style.top = `${ver}px`;
 }
+
+moves = {
+  name: "124",
+};
